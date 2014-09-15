@@ -120,7 +120,7 @@ struct {
 	{  24,     KEY_ESC      },
 	{   7,     KEY_ENTER    },
 	{   8,     KEY_SPACE    },
-	{   2,     KEY_W        },
+	{   2,     KEY_Z        },
 	{   3,     KEY_X        },
 	{   4,     KEY_C        },
 	{  27,     KEY_V        },
